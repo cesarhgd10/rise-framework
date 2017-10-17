@@ -1,0 +1,14 @@
+{
+    "name": "resultate/rise-framework",
+    "description": "A framework to help managing wordpress config, taxonomies, meta-fields and post-types",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Cesar Damascena",
+            "email": "cesar.damascena@resultate.com.br"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
